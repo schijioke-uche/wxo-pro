@@ -1,5 +1,5 @@
-Panel Discussion: Session-2
-The New Wave of Tech-Driven Finance - Insights from Industry Visionaries
+2. The New Wave of Tech-Driven Finance - Insights from Industry Visionaries
+--
 Monica Martins
 [200:00] In our organization, we've embraced the principles of Tech-Driven Finance by integrating AI into our core financial workflows.
 [202:02] One of the biggest challenges we faced was aligning legacy systems with modern AI capabilities, but the results have been transformative.

@@ -1,5 +1,5 @@
-Panel Discussion Session-3:
-Transformation Case Study - AI-First Enterprise for Financial Services
+3. Transformation Case Study - AI-First Enterprise for Financial Services
+--
 Monica Martins
 [35:00] In our case as technology provider, we've embraced the principles of AI-First Enterprise by integrating AI into our core financial workflows.
 [37:02] One of the biggest challenges we faced was aligning legacy systems with modern AI capabilities, but the results have been transformative.
